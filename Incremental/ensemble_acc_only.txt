@@ -1,0 +1,10 @@
+>loaded ../models/SingleModel.3.h5
+Loaded 3 models
+Model Accuracy: 0.172 
+Model Accuracy: 0.972 
+Model Accuracy: 0.871 
+Stacked Test Accuracy: (1, 2) : 0.976
+Stacked Test Accuracy: (1, 3) : 0.897
+Stacked Test Accuracy: (2, 3) : 0.992
+Stacked Test Accuracy: (1, 2, 3) : 0.993
+
